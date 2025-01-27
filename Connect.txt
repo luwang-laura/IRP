@@ -1,0 +1,344 @@
+
+  		
+	IE - Local Hire no VAF Foreign National Questionnaire
+ 
+	Principal Assignee 	Dependents 	 
+You are editing the principal assignee.
+	Save
+	
+ 
+Disclaimer
+For Completion by Assignee/Foreign National (principal candidate/employee)
+
+Please note: Failure to complete all sections may result in a substantial delay in the processing of this case. If a question does not apply, please put "none" or "not applicable (N/A)" rather than leaving the answer blank.
+
+If a person's first or last name is blank on the passport, please enter either "FNU" for first name or "LNU" for last name rather than "none" or "N/A."
+
+This questionnaire is for individuals who will be taking up a new role in Ireland for longer than 90 days, and will have an Irish employment contract. Let Fragomen know if this does not apply to you.
+
+Contact Details
+Your name should be entered as it appears on your passport.
+* Last Name:
+
+* First Name:
+
+Middle Name:  
+(check box below if not applicable)
+
+Not Applicable:
+
+
+Nickname:
+
+Suffix:
+
+Maiden Name:
+
+Alias Last Name:
+
+Alias First Name:
+
+Have you used any other names from a previous marriage?
+
+E-mail #1 	
+* Email Address Type:
+
+* E-mail Address:
+
+Check Box if Primary Email
+
+E-mail #2 	
+* Email Address Type:
+
+* E-mail Address:
+
+Check Box if Primary Email
+
+Add E-mail
++ Add E-mail
+Phone Numbers:
+Preferrably be from the same country where you are located. Please include a Landline (Home) and Mobile number.
+Phone #1 	
+* Phone Number Type:
+
+* International Code (This field is numeric: e.g., US is 1, UK is 44, Australia is 61):
+
+* Phone Number:
+
+Phone #2 	
+* Phone Number Type:
+
+* International Code (This field is numeric: e.g., US is 1, UK is 44, Australia is 61):
+
+* Phone Number:
+
+Add Phone
++ Add Phone
+Biographical
+Please provide your biographical information.
+* Gender:
+
+* Date of Birth (dd-MMM-yyyy):
+
+* Country of Birth:
+
+* City of Birth:
+
+State/Province/Region of Birth:
+
+* Marital Status:
+
+If married or in a civil partnership, does your spouse/partner have an Irish employment permit or other type of work permission in Ireland?
+
+Explain:
+
+If married or in a civil partnership, what is your spouse/partner's nationality?
+We need this information regardless of whether they do or will live in Ireland
+
+Citizenship #1 	
+* Country of Citizenship:
+
+* Obtained How?:
+
+* Obtained When? (dd-MMM-yyyy):
+(Enter Date of Birth if Native Born)  
+
+Please include all current and former citizenship. Use the  "+ Citizenship" for each one and ensure that you upload a copy of the bio page for each passport at the end of the questionnaire.
+Add Citizenship
++ Add Citizenship
+Are you eligible to become a citizen of another country?
+
+Address in Host/Receiving Country
+* Do you live in Ireland?
+
+Home Address #1 	
+* Country:
+
+* Street Address:
+
+Address 2:
+
+* City:
+
+Eircode:
+eircode.ie
+
+Dublin postal district (D1-D24)
+
+Education Details
+Please list all educational institutions attended.
+Do you have an educational qualification (degree or diploma) that is clearly and directly relevant to your role in Ireland?
+
+If yes or unsure, provide the following:
+Education #1 	
+* What is the highest qualification you have completed that is relevant to your role in Ireland?
+If you have a foreign degree and the name doesn't match anything on the list, write the degree name in the original language under 'other'
+
+
+
+If other, please specify:
+
+* Date of completed or anticipated completion (dd-MMM-yyyy):
+This is typically the date on your degree certificate or the date when your final results become official; you must supply an exact date, even if in the future; if you are not entirely sure, give your closest estimate
+
+Title of Course:
+(e.g., 'Bachelor of Engineering in Computer Science', 'Master of Business Administration')
+
+* Institution where you completed this degree:
+
+Country where the institution is located:
+
+If your degree certificate is in English, do the degree and title that you have written above match (exact wording) what is your degree certificate?
+
+If 'no' to above, please explain.
+
+If qualification was not in English, write the fill name in the original language:
+
+* Results Achieved:
+Different countries use different grading systems; write whatever is used in the country where you studied - e.g. GPA, 2.1%, distinction, first class, 50-80, pass, etc...
+
+* Individual classes / courses taken during your final year:
+List all the final year's courses taken in order of relevance to your role in Ireland, with a maximum of 8; if you did not complete 8 courses during your final year, list additional courses from your second-to-last year; they should match your academic transcript, if in English
+
+If you wrote a final dissertation / thesis, write the full title here.
+
+In addition to the information about your highest relevant degree above, have you also completed another degree that is clearly and directly relevant to your role in Ireland?
+
+Current Employment
+Please provide details about your current employment.
+* Are you currently employed?
+This is required for your visa application, not your employment permit application.
+
+Employment #1 	
+* Current Employer Name:
+
+* Job Title:
+
+* Start Date (dd-MMM-yyyy):
+
+End Date (dd-MMM-yyyy):
+
+Job Description:
+(Note: The maximum character limit for this field is 4,000 characters. Data exceeding this limit will be truncated. To avoid any loss of information, please enter 'see attached document' in this field and then upload the document in the Attach Documents section at the end of this questionnaire.)
+Investigate suspicious buyer activity and behavior that could pose a risk to Amazon, our customer’s, or merchants.
+
+Annual Salary (Base Salary):
+Excluding bonuses
+
+Salary Currency:
+
+* Country:
+
+Street Address:
+
+Address 2:
+
+City:
+
+State/Province/Region:
+
+Postal Code:
+
+Employer Email Address:
+
+Employer Phone Number:
+
+Name of Contact Person at Employer (Supervisor Name):
+
+Contact Person's Phone Number (Supervisor Phone):
+
+Contact Person's Email Address (Supervisor Email):
+
+What is the relationship between the current Employer and the proposed Employer (if any)?
+
+If Other, please explain:
+
+* Is the physical job location different from the address above?
+
+If Yes, please provide the physical job location details below.
+Country:
+
+Street Address:
+
+Address 2:
+
+City:
+
+State/Province/Region:
+
+Postal Code:
+
+Employment History
+Do you have any work experience that is relevant to your role in Ireland?
+
+Immigration History
+Please provide details pertaining to immigration history to the host country.
+* Do you live in Ireland?
+
+When did you first start living in Ireland? (dd-MMM-yyyy):
+
+Have you had any lengthy absences (of over one month) from Ireland since you started living there?
+
+If yes, please explain:
+Visited my family to celebrate new year since COVID, stayed in China around 40 days
+
+Date of last entry into Ireland (dd-MMM-yyyy):
+
+Did you ever have or do you have a GNIB or IRP card?
+
+If yes, provide information about your current GNIB or IRP card.
+Valid From (dd-MMM-yyyy):
+
+Valid to (dd-MMM-yyyy):
+
+Stamp Number:
+0-6
+Show
+
+Card Number (Registration Number): 6 digits
+Show
+
+Department of Justice Reference Number:
+10 digits; often begins with '69'; not every card has one
+Show
+
+Not applicable:
+
+Provide information about any previous GNIB or IRP cards in the 'Attach Documents' section.
+Do you have a Personal Public Service (PPS) number?
+(if applicable; unlikely if you never worked in Ireland)
+
+Have you ever worked in Ireland?
+
+If you entered Ireland with a passport from a country whose citizens are visa required, do you have a valid re-entry visa?
+
+Were you ever in Ireland without permission?
+Include any situation where your GNIB or IRP card lapsed or where you overstayed or violated your immigration status.
+
+Family Information
+* Do you have any family members currently living in the EEA, EU or UK?
+
+International Travel
+Do you have any international travel coming up, apart from Ireland?
+
+Do any of your dependent family members have any international travel plans coming up without you?
+
+Security and Background Required Questions
+Please indicate 'Yes' or 'No'. Please provide an explanation if you answer 'Yes'' to any.
+* Have you ever applied for asylum in Ireland?
+
+* Have you ever been refused entry to, or been instructed to leave, any other country?
+
+* Have you ever been convicted of an offence that attracts a custodial sentence of more than 12 months?
+
+Attach Documents
+PLEASE DO NOT ATTACH ZIP FILES. The recommended attachment files should be in PDF, JPEG (JPG) or GIF format only. All copies should be high quality and single-sided on full-size paper.
+Please add information for your current passport. Use the + Add Document link to add information for your previous passports.
+Document #1 	
+Document Type:
+
+Passport Number:
+
+Issue Date (dd-MMM-yyyy):
+
+Expiration Date (dd-MMM-yyyy):
+
+File:
+Click here to upload files (0 uploaded so far).
+
+Is your current passport your first passport?
+
+Add Document
++ Add Document
+IRP Card:
+
+Document #1 	
+Document Type:
+
+File:
+Click here to upload files (0 uploaded so far).
+
+Card Number (Registration Number):
+6 digits
+
+IRP Department Number:
+(ten digits)
+
+Valid From (dd-MMM-yyyy):
+
+Expiration Date (Valid To) (dd-MMM-yyyy):
+
+Add Document
++ Add Document
+Job Description:
+
+Certification
+
+Before submitting this questionnaire, please check all information to make sure it is accurate and complete, including, but not limited to:
+
+    Your biographic details, residence(s), contact information, marital history, and work/education history.
+    Information about your family members, including a Dependent tab for each person that contains biographic and immigration status information.
+
+By submitting this questionnaire, you confirm that you have reviewed all responses and that each response is true, complete and correct. You also confirm that each supporting document you provide to Fragomen is an unaltered original or a true copy thereof.
+		 
+Please Wait
